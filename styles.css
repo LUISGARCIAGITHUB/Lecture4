@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    border: 21px double red;
+}
+
+img {
+    width: 210px;
+}
+
+h1,
+h2 {
+    color: red;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+
+}
+
+p {
+    color: red;
+    text-align: center;
+}
